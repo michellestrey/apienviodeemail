@@ -1,4 +1,5 @@
-API de Envio de E-mail 📧
+#API de Envio de E-mail 📧
+
 Uma pequena API para envio de e-mails utilizando JavaMailSender.
 
 🛠 Tecnologias Utilizadas
